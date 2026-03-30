@@ -1,2 +1,2 @@
 # piyush-demo
-first hit repository
+first git repository
